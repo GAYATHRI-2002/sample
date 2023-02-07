@@ -1,0 +1,44 @@
+.nav-link {
+    color: black;
+   }
+.word{
+    text-align: center;
+    padding-top: 40px;
+    justify-content: space-around;
+}   
+.btn-primary {
+   margin-top: 30px;
+    justify-content: space-around;
+}
+
+form {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    margin-top: 600px;
+    text-align: center;
+    justify-content: center;
+   
+}
+
+
+
+
+.card{
+    background: #ffff;
+    border: 0;
+    margin-top: 20px;
+}
+.container1{
+    background: #ffff;
+    margin-top: 50px;
+}
+#word{
+    text-align: center;
+}
+
+.logo{
+    width: 100vh;
+    height: 35px;
+    display: flex;
+}
